@@ -1,6 +1,6 @@
 # bloc_shopper
 
-A new Flutter project.
+A simple Flutter shopper project using BLoC pattern.
 
 ## Getting Started
 
